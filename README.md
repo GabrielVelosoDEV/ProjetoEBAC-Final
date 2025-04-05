@@ -11,8 +11,8 @@ Este projeto apresenta uma análise completa dos resultados do ENEM 2022, relaci
 - Explorar diferenças de desempenho por faixa etária e gênero
 
 ## Estrutura do Projeto
-- `dados/`: Contém os dados brutos utilizados
-- `dados_tratados/`: Dados após processamento e limpeza
+- `dados/`: Contém os dados brutos utilizados (Os Dados estão em amostras pois os originais eram enormes e não dava pra subir no git).
+- `dados_tratados/`: Dados após processamento e limpeza 
 - `notebooks/`: Jupyter notebooks com análises e visualizações
 - `analises/`: Gráficos e visualizações estáticas
 - `visualizacoes/`: Visualizações interativas
