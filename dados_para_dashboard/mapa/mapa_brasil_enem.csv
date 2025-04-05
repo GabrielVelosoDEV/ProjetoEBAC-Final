@@ -1,0 +1,28 @@
+id,country,state,UF,Codigo_IBGE,Regiao,Latitude,Longitude,Media_Notas,Nivel_Desempenho
+BR-AC,Brazil,Acre,AC,12,Norte,-9.0749,-70.811,488.33481362129055,Baixo
+BR-AL,Brazil,Alagoas,AL,27,Nordeste,-9.5715,-36.7819,492.5334490177089,Baixo
+BR-AP,Brazil,Amapá,AP,16,Norte,0.902,-52.003,491.9098616463792,Baixo
+BR-AM,Brazil,Amazonas,AM,13,Norte,-3.4168,-65.8561,494.21751861005487,Baixo
+BR-BA,Brazil,Bahia,BA,29,Nordeste,-12.5797,-41.7007,491.1586082602562,Baixo
+BR-CE,Brazil,Ceará,CE,23,Nordeste,-5.4984,-39.3206,493.57749494556214,Baixo
+BR-DF,Brazil,Distrito Federal,DF,53,Centro-Oeste,-15.7998,-47.8645,486.22494680730773,Baixo
+BR-ES,Brazil,Espírito Santo,ES,32,Sudeste,-19.1834,-40.3089,489.16809074889494,Baixo
+BR-GO,Brazil,Goiás,GO,52,Centro-Oeste,-15.827,-49.8362,487.5224674994554,Baixo
+BR-MA,Brazil,Maranhão,MA,21,Nordeste,-4.9609,-45.2744,491.70749755560934,Baixo
+BR-MT,Brazil,Mato Grosso,MT,51,Centro-Oeste,-12.6819,-56.9211,479.3558262882033,Muito baixo
+BR-MS,Brazil,Mato Grosso do Sul,MS,50,Centro-Oeste,-20.7722,-54.7852,495.7068768027455,Baixo
+BR-MG,Brazil,Minas Gerais,MG,31,Sudeste,-18.5122,-44.555,486.2686750959185,Baixo
+BR-PA,Brazil,Pará,PA,15,Norte,-1.9981,-54.9306,494.1937815140438,Baixo
+BR-PB,Brazil,Paraíba,PB,25,Nordeste,-7.24,-36.7866,494.170268504933,Baixo
+BR-PR,Brazil,Paraná,PR,41,Sul,-25.2521,-52.0215,494.625701049198,Baixo
+BR-PE,Brazil,Pernambuco,PE,26,Nordeste,-8.8137,-36.9541,490.78690600964705,Baixo
+BR-PI,Brazil,Piauí,PI,22,Nordeste,-7.7183,-42.7289,486.4920020038277,Baixo
+BR-RJ,Brazil,Rio de Janeiro,RJ,33,Sudeste,-22.9099,-43.2095,486.8281073197913,Baixo
+BR-RN,Brazil,Rio Grande do Norte,RN,24,Nordeste,-5.4026,-36.9541,484.8510001110708,Baixo
+BR-RS,Brazil,Rio Grande do Sul,RS,43,Sul,-30.0346,-51.2177,497.62397119446524,Baixo
+BR-RO,Brazil,Rondônia,RO,11,Norte,-11.5057,-63.5806,498.99228577331564,Baixo
+BR-RR,Brazil,Roraima,RR,14,Norte,2.7376,-62.0751,481.6307306511369,Baixo
+BR-SC,Brazil,Santa Catarina,SC,42,Sul,-27.2423,-50.2189,483.08266537192884,Baixo
+BR-SP,Brazil,São Paulo,SP,35,Sudeste,-23.5505,-46.6333,490.3478366936692,Baixo
+BR-SE,Brazil,Sergipe,SE,28,Nordeste,-10.5741,-37.3857,491.43335959543896,Baixo
+BR-TO,Brazil,Tocantins,TO,17,Norte,-10.1753,-48.2982,484.3091142522405,Baixo
